@@ -24,7 +24,7 @@ Few examples of predictions below:
 </p>
   
 <p align="left">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="images/Medical_Images_Segmentation(Liver).png">
 </p>
   
  
