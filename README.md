@@ -17,11 +17,6 @@ Convolutional Networks for Biomedical Image Segmentation” by Olaf Ronneberger,
 
 ## Predictions
 Few examples of predictions below:
-![Screenshot](images/Medical_Images_Segmentation(Liver).png)
-
-<p align="left">
-  <src="images/Medical_Images_Segmentation(Liver).png">
-</p>
   
 <p align="left">
   <img width="631" height="188" src="images/Medical_Images_Segmentation(Liver).png">
