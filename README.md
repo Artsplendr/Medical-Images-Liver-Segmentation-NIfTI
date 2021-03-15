@@ -24,7 +24,7 @@ Few examples of predictions below:
 </p>
   
 <p align="left">
-  <img width="460" height="300" src="images/Medical_Images_Segmentation(Liver).png">
+  <img width="631" height="188" src="images/Medical_Images_Segmentation(Liver).png">
 </p>
   
  
