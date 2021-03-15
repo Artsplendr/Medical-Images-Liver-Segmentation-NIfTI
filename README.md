@@ -19,6 +19,10 @@ Convolutional Networks for Biomedical Image Segmentation” by Olaf Ronneberger,
 Few examples of predictions below:
 ![Screenshot](images/Medical_Images_Segmentation(Liver).png)
 
+<p align="center">
+  <img width="460" height="300" src="images/Medical_Images_Segmentation(Liver).png">
+</p>
+
 ## References
 1. “Medical images segmentation with Keras: U-net architecture” by Soriba D. 
 at this link <https://towardsdatascience.com/medical-images-segmentation-using-keras-7dc3be5a8524>
