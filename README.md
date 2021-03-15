@@ -22,6 +22,12 @@ Few examples of predictions below:
 <p align="left">
   <src="images/Medical_Images_Segmentation(Liver).png">
 </p>
+  
+<p align="left">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+  
+ 
 
 ## References
 1. “Medical images segmentation with Keras: U-net architecture” by Soriba D. 
