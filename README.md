@@ -3,7 +3,7 @@
 ## Goal of the Project
 Biomedical images projects often have been experiencing a problem of insufficient number of annotated input images available.
 Additionally, medical imaging requires localisation (e.g. classification of every pixel) or medical image segmentation.
-Goal of this project is to reproduce medical images segmentation experiment, created by Soriba D., and to learn how dataset with few samples could be used for medical images segmentation.
+Goal of this project is to reproduce medical images segmentation experiment, created by Soriba Diaby, and to learn how dataset with few samples could be used for medical images segmentation.
 
 ## Dataset
 Very small dataset of 3D CT scans will be used in this project:  the dataset contains 3D CT scans of 20 patients (10 women, 10 men) with in total 75 % cases of tumours.  The dataset includes liver mask segmentations as well.
@@ -25,7 +25,5 @@ Few examples of predictions below:
  
 
 ## References
-1. “Medical images segmentation with Keras: U-net architecture” by Soriba D. 
-at this link <https://towardsdatascience.com/medical-images-segmentation-using-keras-7dc3be5a8524>
-and at the following link: <https://github.com/soribadiaby/Deep-Learning-liver-segmentation>;
-3. “U-Net: Convolutional Networks for Biomedical Image Segmentation” research paper by Olaf Ronneberger, Philipp Fischer, and Thomas Brox is available here: <https://arxiv.org/pdf/1505.04597.pdf>
+1. “Medical images segmentation with Keras: U-net architecture” by Soriba Diaby at this link <https://towardsdatascience.com/medical-images-segmentation-using-keras-7dc3be5a8524> and at the following link: <https://github.com/soribadiaby/Deep-Learning-liver-segmentation>;
+3. “U-Net: Convolutional Networks for Biomedical Image Segmentation” research paper by Olaf Ronneberger, Philipp Fischer, and Thomas Brox is available here: <https://arxiv.org/pdf/1505.04597.pdf>;
