@@ -3,7 +3,7 @@
 ## Goal of the Project
 Biomedical images projects often have been experiencing a problem of insufficient number of annotated input images available.
 Additionally, medical imaging requires localisation (e.g. classification of every pixel) or medical image segmentation.
-Goal of this project is to reproduce medical images segmentation experiment, created by Soriba Diaby, and to learn how dataset with few samples could be used for medical images segmentation.
+Goal of this project is to reproduce medical images segmentation experiment (author: Soriba Diaby) and to learn how dataset with few samples could be used for medical images segmentation.
 
 ## Dataset
 Very small dataset of 3D CT scans will be used in this project:  the dataset contains 3D CT scans of 20 patients (10 women, 10 men) with in total 75 % cases of tumours.  The dataset includes liver mask segmentations as well.
